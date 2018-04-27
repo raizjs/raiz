@@ -1,5 +1,5 @@
 /**
- * Raiz v0.1 @ 2018/04/26
+ * Raiz v0.1 @ 2018/04/27
  * License: MIT
  * Author: Wallace Rio (http://wallrio.com)
  */
