@@ -1,0 +1,9 @@
+{
+  "name": "raiz",
+  "description": "Biblioteca Javascript para desenvolvimento de aplicações e sites",
+  "authors": ["Wallace Rio <wallrio@gmail.com>"],
+  "license": "MIT",
+  "main": "raiz.js",
+  "keywords": ["javascript", "library", "developer", "react", "hmvc", "component"], 
+  "homepage": "http://raizjs.gitlab.io"
+}
