@@ -1,5 +1,6 @@
 {
   "name": "raiz",
+  "version":"0.1",
   "description": "Biblioteca Javascript para desenvolvimento de aplicações e sites",
   "authors": ["Wallace Rio <wallrio@gmail.com>"],
   "license": "MIT",
