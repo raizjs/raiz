@@ -1,5 +1,5 @@
 /**
- * Raiz v0.1.0 @ 2018/05/14
+ * Raiz v0.1.1 @ 2018/05/14
  * License: MIT
  * Author: Wallace Rio (http://wallrio.com)
  */
