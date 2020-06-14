@@ -1,3 +1,4 @@
+
 # Rais ϟ
 
 Raiz é uma biblioteca javascript reativa para desenvolvimento de interface do cliente.
@@ -20,8 +21,14 @@ Para iniciar um projeto, apenas inclua a chamada ao script core no documento HTM
 #### CDN
 É possivel utilizar o core js do Raiz em um CDN, segue o link para utilização:
 
+- via jsdelivr
 ```html
 <script  type="text/javascript"  src="https://cdn.jsdelivr.net/gh/raizjs/raiz@master/dist/raiz.min.js"></script>
+```
+
+- via statically
+```html
+<script  type="text/javascript"  src="https://cdn.statically.io/gh/raizjs/raiz/318dca46/dist/raiz.min.js"></script>
 ```
 
 [Baixe o core javascript](https://cdn.jsdelivr.net/gh/raizjs/raiz@master/dist/raiz.min.zip)
