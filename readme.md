@@ -21,7 +21,7 @@ Para iniciar um projeto, apenas inclua a chamada ao script core no documento HTM
 É possivel utilizar o core js do Raiz em um CDN, segue o link para utilização:
 
 ```html
-<script  type="text/javascript"  src="https://cdn.jsdelivr.net/gh/raizjs/raiz@master/core/raiz.js"></script>
+<script  type="text/javascript"  src="https://cdn.jsdelivr.net/gh/raizjs/raiz@master/dist/raiz.min.js"></script>
 ```
 
 [Baixe o core javascript](https://github.com/raizjs/raiz/raw/master/core/raiz.zip)
