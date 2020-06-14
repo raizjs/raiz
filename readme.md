@@ -24,7 +24,7 @@ Para iniciar um projeto, apenas inclua a chamada ao script core no documento HTM
 <script  type="text/javascript"  src="https://cdn.jsdelivr.net/gh/raizjs/raiz@master/dist/raiz.min.js"></script>
 ```
 
-[Baixe o core javascript](https://github.com/raizjs/raiz/raw/master/core/raiz.zip)
+[Baixe o core javascript](https://cdn.jsdelivr.net/gh/raizjs/raiz@master/dist/raiz.min.js)
 
 #### Utilização
 Para verificar se a biblioteca esta funcionando corretamente, insira uma string de interpolação no corpo do documento HTML para testar com um Hello World:
