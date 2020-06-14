@@ -37,7 +37,7 @@ Para fazer um teste rápido você pode acessar um exemplo no [JSFiddle](https://
 
 #### Topicos
 
-##### [Exemplos](help/examples/home.md)
+##### [Exemplos](help/examples.md)
 ##### [Classes](help/classes.md)
 ##### [Atributos iniciais](help/attributes.md)
 ##### [Interpolação](help/interpolation.md)
