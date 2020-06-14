@@ -50,4 +50,4 @@ Para fazer um teste rápido você pode acessar um exemplo no [JSFiddle](https://
 ##### [Components](help/components.md)
 
 #### Funções úteis
-##### [ajax](help/functions.md)
+##### [Funções](help/functions.md)
