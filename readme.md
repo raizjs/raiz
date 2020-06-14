@@ -13,14 +13,11 @@ Raiz é uma biblioteca javascript reativa para desenvolvimento de interface do c
 #### Instalação
 Para iniciar um projeto, apenas inclua a chamada ao script core no documento HTML.
 
-- HTTP
 ```html
-<script  type="text/javascript"  src="http://raiz.wallrio.com/core/0.2.2/raiz.js"></script>
+<script  type="text/javascript"  src=".../raiz.js"></script>
 ```
-- HTTPS
-```html
-<script  type="text/javascript"  src="https://raiz.wallrio.com/core/0.2.2/raiz.js"></script>
-```
+
+[Baixe o core javascript](https://github.com/raizjs/raiz/raw/master/core/raiz.zip)
 
 #### Utilização
 Para verificar se a biblioteca esta funcionando corretamente, insira uma string de interpolação no corpo do documento HTML para testar com um Hello World:
@@ -36,13 +33,13 @@ Congratulations, **Raiz ...** was successfully loaded
 > Se sua classe for de uso global, é recomendável utilizar o atributo **raiz-controller** na tag HTML do documento.
 
 #### Teste online
-Para fazer um teste rápido você pode acessar um exemplo no [JSFiddle](https://jsfiddle.net/wallrio/8vwfb9dc/)
+Para fazer um teste rápido você pode acessar um exemplo no [JSFiddle](https://jsfiddle.net/ocepb0km/)
 
 #### Topicos
 
-##### [Exemplos](help/examples/home.md)
+##### [Exemplos](help/examples.md)
 ##### [Classes](help/classes.md)
-##### [Atributos iniciais](help/classes.md)
+##### [Atributos iniciais](help/attributes.md)
 ##### [Interpolação](help/interpolation.md)
 ##### [If](help/if.md)
 ##### [for](help/for.md)
@@ -50,4 +47,4 @@ Para fazer um teste rápido você pode acessar um exemplo no [JSFiddle](https://
 ##### [Components](help/components.md)
 
 #### Funções úteis
-##### [ajax](help/functions/ajax.md)
+##### [Funções](help/functions.md)
