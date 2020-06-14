@@ -42,7 +42,7 @@ Para fazer um teste rápido você pode acessar um exemplo no [JSFiddle](https://
 
 ##### [Exemplos](help/examples/home.md)
 ##### [Classes](help/classes.md)
-##### [Atributos iniciais](help/classes.md)
+##### [Atributos iniciais](help/attributes.md)
 ##### [Interpolação](help/interpolation.md)
 ##### [If](help/if.md)
 ##### [for](help/for.md)
@@ -50,4 +50,4 @@ Para fazer um teste rápido você pode acessar um exemplo no [JSFiddle](https://
 ##### [Components](help/components.md)
 
 #### Funções úteis
-##### [ajax](help/functions/ajax.md)
+##### [ajax](help/functions.md)
