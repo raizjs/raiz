@@ -17,6 +17,13 @@ Para iniciar um projeto, apenas inclua a chamada ao script core no documento HTM
 <script  type="text/javascript"  src=".../raiz.js"></script>
 ```
 
+#### CDN
+É possivel utilizar o core js do Raiz em um CDN, segue o link para utilização:
+
+```html
+<script  type="text/javascript"  src="https://cdn.jsdelivr.net/gh/raizjs/raiz@master/core/raiz.js"></script>
+```
+
 [Baixe o core javascript](https://github.com/raizjs/raiz/raw/master/core/raiz.zip)
 
 #### Utilização
@@ -33,7 +40,7 @@ Congratulations, **Raiz ...** was successfully loaded
 > Se sua classe for de uso global, é recomendável utilizar o atributo **raiz-controller** na tag HTML do documento.
 
 #### Teste online
-Para fazer um teste rápido você pode acessar um exemplo no [JSFiddle](https://jsfiddle.net/ocepb0km/)
+Para fazer um teste rápido você pode acessar um exemplo no [JSFiddle](https://jsfiddle.net/wallrio/8vwfb9dc/)
 
 #### Topicos
 
