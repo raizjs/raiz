@@ -13,13 +13,8 @@ Raiz é uma biblioteca javascript reativa para desenvolvimento de interface do c
 #### Instalação
 Para iniciar um projeto, apenas inclua a chamada ao script core no documento HTML.
 
-- HTTP
 ```html
-<script  type="text/javascript"  src="http://raiz.wallrio.com/core/0.2.2/raiz.js"></script>
-```
-- HTTPS
-```html
-<script  type="text/javascript"  src="https://raiz.wallrio.com/core/0.2.2/raiz.js"></script>
+<script  type="text/javascript"  src="https://raizjs.github.io/core/0.2.2/raiz.js"></script>
 ```
 
 #### Utilização
