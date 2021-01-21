@@ -23,12 +23,12 @@ Para iniciar um projeto, apenas inclua a chamada ao script core no documento HTM
 
 - via jsdelivr
 ```html
-<script  type="text/javascript"  src="https://cdn.jsdelivr.net/gh/raizjs/raiz@master/dist/raiz.min.js"></script>
+<script  type="text/javascript"  src="https://cdn.jsdelivr.net/gh/raizjs/raiz@1.0.0/dist/raiz.min.js"></script>
 ```
 
 - via statically
 ```html
-<script  type="text/javascript"  src="https://cdn.statically.io/gh/raizjs/raiz/318dca46/dist/raiz.min.js"></script>
+<script  type="text/javascript"  src="https://cdn.statically.io/gh/raizjs/raiz/master/dist/raiz.min.js"></script>
 ```
 
 [Baixe o core javascript](https://cdn.jsdelivr.net/gh/raizjs/raiz@master/dist/raiz.min.zip)
